@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
 }
-
 html, body {
     height: 100%;
 }
@@ -16,7 +15,6 @@ body {
     background: linear-gradient(0deg, rgba(62,80,92,1) 0%, rgba(61,135,113,1) 100%);
     background-attachment: fixed;
 }
-
 main {
     max-width: 1000px;
     padding: 0 50px;
@@ -24,7 +22,6 @@ main {
     overflow: hidden;
 }
 h2 {
-    
     font-weight: normal;
     max-width: 30%;
     margin: 10px;
@@ -110,9 +107,6 @@ h1::after {
 .info div {
     width: 50%;
     padding: 20px;
-}
-.info .intro {
-
 }
 .info .contacts ul {
     list-style: none;
